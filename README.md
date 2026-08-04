@@ -12,7 +12,7 @@
 - 🎓 B.Tech CSE (Data Science & Engineering) at Manipal University Jaipur
 - 💡 Passionate about Full Stack Development, AI/ML, and Generative AI
 - 🤖 Exploring RAG systems, LLM applications, and intelligent web platforms
-- 📈 Solved 380+ DSA problems on LeetCode & GFG
+- 📈 Solved 500+ DSA problems on LeetCode & GFG
 - 🏆 Finalist — Smart India Hackathon 2024
 - 🌱 Currently improving backend architecture and AI integrations
 
